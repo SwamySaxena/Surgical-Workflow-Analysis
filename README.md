@@ -21,13 +21,13 @@ Framework visualization
 * These features are then used to train the modified TCN model.
 
 * The base TCN model is as follows : 
-![img1](https://github.com/SwamySaxena/Surgical-Workflow-Analysis/blob/master/img1.jpg)
+![img1](https://github.com/SwamySaxena/Surgical-Workflow-Analysis/blob/main/img1.jpg)
 
 *The modified structure looks as follows:
-![img1](https://github.com/SwamySaxena/Surgical-Workflow-Analysis/blob/master/img2.jpg)
+![img2](https://github.com/SwamySaxena/Surgical-Workflow-Analysis/blob/main/img2.jpg)
 
 And it utilizes these:
-![img1](https://github.com/SwamySaxena/Surgical-Workflow-Analysis/blob/master/img3.jpg)
+![img3](https://github.com/SwamySaxena/Surgical-Workflow-Analysis/blob/main/img3.jpg)
 
 
 
